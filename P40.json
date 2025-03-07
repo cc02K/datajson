@@ -1,5 +1,0 @@
-{
-    "user_id": 1030659113,
-    "file_name": "prof xtn pro.xtp",
-    "result": "\n┌─[ https://t.me/sniffer101 ]─[~]\n└──╼[ Powered by: ~ BASE-N7 ~SnifferProject ~]\n===============================\n\nPSInstall is not a string: False\n[</>] [PSInstall] : False\n[</>] [DeviceID] : null\n[</>] [RootBlock] : False\n[</>] [MobileData] : True\n[</>] [ExpireDate] : 2025-03-21 09:30:28\n[</>] [isMsg] : True\n[</>] [CFGMessage] : profitons ensemble ( prof)\n[</>] [isPassON] : False\n[</>] [MyPass] : null\n[</>] [Payload] : null\n[</>] [WSPayload] : null\n[</>] [SNIHost] : null\n[</>] [BUGHost] : null\n[</>] [DNSHost] : null\n[</>] [ProxySet] : null\n[</>] [UDPhost] : null\n[</>] [UDPobfs] : null\n[</>] [UDPauth] : null\n[</>] [V2Ejson] : null\n[</>] [isEreverse] : False\n[</>] [v2Esni] : MTA0LjIwLjMuMTY3\n[</>] [EwgConf] : null\n[</>] [TunnelType] : 8\n[</>] [isWSProxy] : False\n[</>] [isWS] : False\n[</>] [Server] : null\n===============================\n\n"
-}
