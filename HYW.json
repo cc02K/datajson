@@ -1,0 +1,5 @@
+{
+    "user_id": 5506061150,
+    "file_name": "200mo Stark.stk",
+    "result": "[⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳]\n[⨳][Connection Mode] : 3\n[⨳][Server Port] : 443\n[⨳][Use Proxy] : False\n[⨳][Use V2ray Mod] : True\n[⨳][Proxy Host] : \n[⨳][Proxy Port] : \n[⨳][Custom Payload] : CONNECT www.mtnplay.com HTTP/1.1[crlf]Host:www.mtnplay.com[crlf][crlf]CONNECT http://www.mtnplay.com HTTP/1.1[crlf]Host:www.mtnplay.com[crlf]User-Agent:[ua][crlf]Connection:Keep-Alive[crlf]Proxy-Connection:Keep-Alive[crlf]Content-Type:Application/Octet-Stream[crlf][crlf]\n[⨳][Custom Host] : 162.159.140.158community.acer.com104.18.12.135\n[⨳][Custom SNI] : 162.159.138.78\n[⨳][Custom Resolver] : 1.1.1.1\n[⨳][Expiry] : 1740697200000\n[⨳][Lock HWID] : \n[⨳][Mobile Data] : True\n[⨳][Block Root] : True\n[⨳][Creator Note] : bon par@SHADOWS_SURF\n[⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳]\n"
+}
