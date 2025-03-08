@@ -1,0 +1,5 @@
+{
+    "user_id": 5361452955,
+    "file_name": "MTN550MB.sks",
+    "result": "[⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳]\n[⨳][SSH Server] : uk-1.turbossh.site\n[⨳][SSH Port] : 80\n[⨳][SSH Username] : turbossh.com-Armoh45s\n[⨳][SSH Password] : Armoh\n[⨳][Connection type] : SSH + HTTP\n[⨳][Proxy Host] : 104.26.15.41\n[⨳][Proxy Port] : 80\n[⨳][Use custom payload for proxy] : True\n[⨳][Proxy Payload] : GET / HTTP/1.1[crlf]Host: [rotate=www.upsa.edu.gh;mtngh-uat-cd-otycvewgw0hqf68y.edge.mtn-dev.auth0.com][crlf][crlf]- / HTTP/1.1[crlf]Host: uk-1.turbossh.site[crlf]Upgrade: HTTP/2.0, SHTTP/1.3, IRC/6.9, RTA/x11[crlf]Connection:keep-alive[crlf][crlf]\n[⨳][SSL Version] : auto\n[⨳][Custom DNS Servers] : ['1.1.1.1', '1.0.0.1']\n[⨳][Block config] : True\n[⨳][Block non-PlayStore app] : True\n[⨳][Note field] : lester forex vision \nhttps://t.me/lesterTech45\n[⨳][Hide SSH Server Message] : True\n[⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳]\n"
+}
