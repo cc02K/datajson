@@ -1,5 +1,0 @@
-{
-    "user_id": -1002234417600,
-    "file_name": "Stark vpn joe tech.stk",
-    "result": "[⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳]\n[⨳][Connection Mode] : 3\n[⨳][Server Port] : 53\n[⨳][Use Proxy] : False\n[⨳][Use V2ray Mod] : True\n[⨳][Proxy Host] : 8.8.8.8:53\n[⨳][Proxy Port] : 8.8.8.8:53\n[⨳][Custom Payload] : GET / HTTP/1.0[crlf]Host:  8.8.8.8[crlf]Upgrade: DNSTT[crlf][crlf]\n[⨳][Custom Host] : \n[⨳][Custom SNI] : 8.8.8.8:53\n[⨳][Custom Resolver] : 8.8.8.8\n[⨳][Expiry] : 1741212000000\n[⨳][Lock HWID] : \n[⨳][Mobile Data] : False\n[⨳][Block Root] : False\n[⨳][Creator Note] : New HOST Econet 70%loading testing by @JOE_MASTER TECH \n[⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳]\n"
-}
