@@ -1,0 +1,5 @@
+{
+    "user_id": 2116792127,
+    "file_name": "⭐Stark vpn⭐MTN global🌍.stk",
+    "result": "[⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳]\n[⨳][Connection Mode] : 3\n[⨳][Server Port] : 443\n[⨳][Use Proxy] : False\n[⨳][Use V2ray Mod] : False\n[⨳][Proxy Host] : www.bughost.com:80\n[⨳][Proxy Port] : www.bughost.com:80\n[⨳][Custom Payload] : HTTP/1.1 200[crlf]Host: www.apple.com[crlf]Connection: Keep-Alive[crlf]User-Agent : [ua][crlf][crlf]\n[⨳][Custom Host] : CONNECT www.mtnplay.com HTTP/1.1[crlf]Host:www.mtnplay.com[crlf][crlf]CONNECT http://www.mtnplay.com HTTP/1.1[crlf]Host:www.mtnplay.com[crlf]User-Agent:[ua][crlf]Connection:Keep-Alive[crlf]Proxy-Connection:Keep-Alive[crlf]Content-Type:Application/Octet-Stream[crlf]\n[⨳][Custom SNI] : www.mtnplay.com\n[⨳][Custom Resolver] : 8.8.4.4\n[⨳][Expiry] : 1742338800000\n[⨳][Lock HWID] : \n[⨳][Mobile Data] : True\n[⨳][Block Root] : True\n[⨳][Creator Note] : DOUGNTC237 le leader en domaine de Free surf 📶 mon WhatsApp 📲 673287970\n[⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳]\n"
+}
