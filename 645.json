@@ -1,0 +1,5 @@
+{
+    "user_id": 644823117,
+    "file_name": "TIM2.skrvoid",
+    "result": " [⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳]\n[⨳]sshPortaLocal : 1080\n[⨳]file.validade : 0\n[⨳]slowdns :  ***\n[⨳]sslSNI :  ***\n[⨳]dnsForward : 1\n[⨳]file.pedirLogin : 0\n[⨳]udpResolver : 127.0.0.1:7300\n[⨳]bloquearRoot : 0\n[⨳]file.appVersionCode : 1110\n[⨳]file.msg : Compre agora msm seu acesso ✅\n[⨳]YubiKey :  ***\n[⨳]proxyRemoto : 104.18.5.18#104.18.4.18#portal.timrecompensas.com.br\n[⨳]slowns :  ***\n[⨳]proxyRemotoPorta : 80\n[⨳]dnsResolver : 8.8.8.8\n[⨳]udpForward : 1\n[⨳]slowchave :  ***\n[⨳]file.proteger : 1\n[⨳]usarDefaultPayload : 0\n[⨳]tunnelType : 2\n[⨳]tls12key :  ***\n[⨳]proxyPayload : [split][rotate=PROPFIND;PATCH;ACL;PROPPATCH;MKCOL;COPY;MOVE;LOCK;UNLOCK;UPDATE;MERGE;ORDERPATCH;PATCH;SEARCH] /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: [host][lf]Upgrade: Websocket[crlf][crlf]\n[⨳]sshAddress : br.clickhost.xyz:80@bvOHpT:68841\n [⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳]\n"
+}
