@@ -1,0 +1,5 @@
+{
+    "user_id": 6269782289,
+    "file_name": "🇿🇦MTN 1GB DAILY🇿🇦.sut",
+    "result": "Error processing file: Traceback (most recent call last):\n  File \"/var/task/sut.py\", line 139, in <module>\n    res = testes.decifrar_string(chave, entrada)\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/task/sut.py\", line 84, in decifrar_string\n    descifrado = self.decifrar_bytes_chave_secreta(chave_secreta, self.alvo, decofificar)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/task/sut.py\", line 77, in decifrar_bytes_chave_secreta\n    return unpad(dados_decifrados, AES.block_size)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/var/task/Crypto/Util/Padding.py\", line 92, in unpad\n    raise ValueError(\"Padding is incorrect.\")\nValueError: Padding is incorrect.\n"
+}
