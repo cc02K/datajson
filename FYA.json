@@ -1,5 +1,0 @@
-{
-    "user_id": -1002477799501,
-    "file_name": "stark vpn show.stk",
-    "result": "[⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳]\n[⨳][Connection Mode] : 3\n[⨳][Server Port] : 8080\n[⨳][Use Proxy] : False\n[⨳][Use V2ray Mod] : True\n[⨳][Proxy Host] : \n[⨳][Proxy Port] : \n[⨳][Custom Payload] : CONNECT [host_port] HTTP/1.0[crlf]Host: www.snapchat.com[crlf][crlf]\n[⨳][Custom Host] : 172.66.0.96\n[⨳][Custom SNI] : 172.66.0.96\n[⨳][Custom Resolver] : 8.8.4.4\n[⨳][Expiry] : 1742770800000\n[⨳][Lock HWID] : a26c8a233a877655\n[⨳][Mobile Data] : True\n[⨳][Block Root] : True\n[⨳][Creator Note] : ASTRO PRO OFF HACK 🤖\n\n[⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳]\n"
-}

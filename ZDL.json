@@ -1,5 +1,0 @@
-{
-    "user_id": 6834450445,
-    "file_name": "TELKOM Unlimited.hat",
-    "result": "{\n    \"profile\": {},\n    \"profilev5\": {\n        \"connection_mode\": \"3\",\n        \"server_port\": 443,\n        \"custom_payload\": \"GET http://auth0.wyzetalk.com HTTP/1.1[crlf]Host: http://auth0.wyzetalk.com[crlf]Connection: keep-alive[crlf][crlf]\",\n        \"custom_host\": \"www.freesite.com\",\n        \"custom_sni\": \"\",\n        \"use_realm_host\": true,\n        \"preserve_sni\": true,\n        \"use_tcp_payload\": false,\n        \"realm_host\": \"site1.blogstar.net\",\n        \"override_primary_host\": false,\n        \"primary_host\": \"204.48.30.222\",\n        \"primary_node\": \"France, Paris 🇫🇷\",\n        \"base_tunnel\": 0,\n        \"isv5\": true\n    },\n    \"descriptionv5\": \"\",\n    \"protextras\": {\n        \"anti_sniff\": true,\n        \"mobile_data\": false,\n        \"block_root\": false,\n        \"password\": true,\n        \"password_value\": \"1c27680133b781cadd037e8a6dcc001b\",\n        \"id_lock\": false,\n        \"id_lock_value\": \"d41d8cd98f00b204e9800998ecf8427e\",\n        \"expiry\": false\n    }\n}\n"
-}
