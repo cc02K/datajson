@@ -1,5 +1,0 @@
-{
-    "user_id": -1002083488380,
-    "file_name": "Test1.jez",
-    "result": "┌─[ https://t.me/sniffer101 ]─[~]\n└──╼[ Powered by: ~ BASE-N7 ~SnifferProject ~]\n===============================\n[</>] [PSInstall] : False\n[</>] [DeviceID] : \n[</>] [RootBlock] : False\n[</>] [MobileData] : False\n[</>] [ExpireDate] : 1970-01-01 00:00:00\n[</>] [isMsg] : False\n[</>] [CFGMessage] : \n[</>] [isPassON] : False\n[</>] [MyPass] : \n[</>] [Payload] : \n[</>] [WSPayload] : \n[</>] [SNIHost] : \n[</>] [BUGHost] : \n[</>] [DNSHost] : 1if+BCrVsw==\n[</>] [ProxySet] : \n[</>] [UDPhost] : \n[</>] [UDPobfs] : \n[</>] [UDPauth] : \n[</>] [V2Ejson] : \n[</>] [v2Esni] : 3z70BCjNqZ8gQS0=\n[</>] [isUri] : False\n[</>] [isEreverse] : False\n[</>] [EwgConf] : \n[</>] [TunnelType] : 6\n[</>] [isWSProxy] : False\n[</>] [isWS] : False\n[</>] [Server] : \n[</>] [NoobDev] : 12\n===========================\n\n"
-}
