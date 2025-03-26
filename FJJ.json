@@ -1,5 +1,0 @@
-{
-    "user_id": 5671967411,
-    "file_name": "MK1.stk",
-    "result": "[⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳]\n[⨳][Connection Mode] : 1\n[⨳][Server Port] : 80\n[⨳][Use Proxy] : False\n[⨳][Use V2ray Mod] : False\n[⨳][Proxy Host] : 8.8.8.8:8080\n[⨳][Proxy Port] : 8.8.8.8:8080\n[⨳][Custom Payload] : CONNECT http://162.159.140.253 HTTP/1.1 200[crlf]Host: http://162.159.140.253[crlf]Connection: keep-alive[crlf]User-Agent: Dalvik/2.1.0 (Linux; U; Android 12; itel A662LM Build/SP1A.210812.001)[crlf]X-Online-Host: 162.159.140.253[crlf][crlf]\n[⨳][Custom Host] : http://googleapis.cn\n[⨳][Custom SNI] : \n[⨳][Custom Resolver] : 8.8.8.8:53\n[⨳][Expiry] : 1742853600000\n[⨳][Lock HWID] : \n[⨳][Mobile Data] : False\n[⨳][Block Root] : False\n[⨳][Creator Note] : \n[⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳⨳]\n"
-}
